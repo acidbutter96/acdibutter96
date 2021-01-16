@@ -13,6 +13,6 @@ Interested on Machine Learning and Deep Learning aplied to data science and in o
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 
 
-<div style="align=center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=acidbutter96&count_private=true&show_icons=true&theme=radical" href="https://github.com/anuraghazra/github-readme-stats">
 </div>
