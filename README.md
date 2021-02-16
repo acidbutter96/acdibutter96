@@ -6,7 +6,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 
 ### About me
-I'm a computational physicist entering the world of development as full stack developer. Lately I have been studying NodeJS, ExpressJS, ReactJS, React Native, but I have more than 1 year of experience as a JavaScript delevoper and five years of experience with Python.
+Entering the world of development as full stack developer. Lately I have been studying NodeJS, ExpressJS, ReactJS, React Native, but I have more than 1 year of experience as a JavaScript delevoper and five years of experience with Python.
 Interested on Machine Learning and Deep Learning aplied to data science and in other areas.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
